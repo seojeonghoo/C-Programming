@@ -1,12 +1,12 @@
 # C Programming Practice
 
-<div align="center">
+```
+💡 2026 학년도 1학년 1학기 C 프로그래밍 실습코드
+```
 
-**2026 학년도 1학년 1학기 C 프로그래밍 실습코드**
 
-</div>
-
----
+</br>
+</br>
 
 ## Development Environment
 
