@@ -1,0 +1,18 @@
+{
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "editor.tabSize": 4,
+    "code-runner.executorMap": {
+        "c": "chcp 65001 > $null; cd $dir; C:\\msys64\\ucrt64\\bin\\gcc.exe $fileName -o $fileNameWithoutExt.exe; if ($?) { .\\\\$fileNameWithoutExt.exe }"
+    },
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+    "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "C:/msys64/ucrt64/include",
+        "C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include",
+        "C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+    ],
+    "liveServer.settings.port": 5531,
+}
